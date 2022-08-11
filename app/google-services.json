@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979316344364",
+    "project_id": "fir-gittest2",
+    "storage_bucket": "fir-gittest2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979316344364:android:3e904aaed255ed73273389",
+        "android_client_info": {
+          "package_name": "com.tiantianjiazheng.firebasegittest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979316344364-4und0ccj1sfq9g8atast5sa41p9kccl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMXzYakh-RxEqw8GZltFzXSN_uIZyhp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979316344364-4und0ccj1sfq9g8atast5sa41p9kccl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
